@@ -2,9 +2,7 @@
 layout: default
 img: ipad.png
 category: Services
-title: 吾窝：吾窝概述
+title: 新住宅：“前沿设计”
 description: |
 ---
-   [吾窝](http://wow-decorate.github.io/) 介绍
-    <br> <br>
-<a class="button tiny radius" href="http://wow-decorate.github.io/">More >></a>
+   新住宅设计团队由华南最知名建筑设计院青年建筑师、华南知名高校建筑学院青年教师、国际知名设计公司的青年室内设计师组成，致力中国新式独栋住宅开发及高端公寓设计，为青年精英提供一体化设计服务和施工管理服务，新住宅的设计思想源自中国传统文化与现代科技的融合，设计手法将西方前沿设计理念融入东方的建筑意境中，新住宅致力于推动中国住宅设计走向世界。
