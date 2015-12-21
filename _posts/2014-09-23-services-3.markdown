@@ -7,4 +7,4 @@ description: |
 ---
  吾窝致力于卧室单间设计，让卧室从睡眠的功能升级为睡眠、休闲、学习、工作功能融合的loft房间，让一房一世界成为可能。
  <br> <br> <br>
- <a class="button tiny radius" href="https://www.zunar.com.cn/">More >></a>
+ <a class="button tiny radius" href="http://wow-decorate.github.io/">More >></a>
