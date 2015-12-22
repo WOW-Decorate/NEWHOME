@@ -6,5 +6,3 @@ title: 新家：“一套房屋的空间规划”
 description: |
 ---
    五星之家致力于旧房及毛坯房从设计、装修、家居、陈设一体式的服务体验，让住宅从传统设计中得到解放，基于家庭生活对房屋功能的需要重新设计空间，借助新住宅设计师团队研发的视觉方案，缔造五星级的家。
-    <br> <br> <br>
-   <a class="button tiny radius" href="http://wow-decorate.github.io/NEWHOME/">More >></a>
