@@ -1,0 +1,10 @@
+---
+layout: default
+img: phones.png
+category: Services
+title: 吾窝：卧室单间loft设计——再小的房间，也可以容纳一个世界
+description: |
+---
+ 借助loft方式，让卧室从睡眠的功能升级为睡眠、休闲、学习、工作功能融合一体的loft空间。
+ <br> <br> 
+ <a class="button tiny radius" href="http://wow-decorate.github.io/">More >></a>
